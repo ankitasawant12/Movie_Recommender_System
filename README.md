@@ -1,6 +1,6 @@
 # Movie Recommendation System
 A content-based recommender system that recommends movies similar to the movie the user likes.
-![movies](https://user-images.githubusercontent.com/118895788/212539194-3a2d1cf4-91a8-4080-b0ca-16d8d6500f48.png)
+![moviesss](https://user-images.githubusercontent.com/118895788/212539268-62cd9cde-8a2a-4efb-8c73-4048144cb489.png)
 
 # Overview
 The movies are recommended based on the content of the movie you entered or selected. The main parameters that are considered for the recommendations are the genre,title, director, and top 3 casts. The details of the movies, such as title, genre, runtime, poster, casts, etc., are fetched from TMDB. The reviews of each individual movie given by the users are "web-scraped" from the IMDB website.
