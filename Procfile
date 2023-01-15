@@ -1,0 +1,1 @@
+web:sh setup.sh && streamliy run App.py
