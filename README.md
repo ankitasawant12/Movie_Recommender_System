@@ -1,10 +1,10 @@
 # Movie Recommendation System
+A content-based recommender system that recommends movies similar to the movie the user likes.
+![moviesss](https://user-images.githubusercontent.com/118895788/212539268-62cd9cde-8a2a-4efb-8c73-4048144cb489.png)
+
 Link to Movie Recommendation System
 
 [![Button Text](download.jpg)](https://ankitasawant12-movie-recommender-system-app-4m6r2x.streamlit.app/)
-
-A content-based recommender system that recommends movies similar to the movie the user likes.
-![moviesss](https://user-images.githubusercontent.com/118895788/212539268-62cd9cde-8a2a-4efb-8c73-4048144cb489.png)
 
 
 # Overview
