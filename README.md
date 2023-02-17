@@ -7,6 +7,8 @@ Link to Movie Recommendation System
 [![Button Text](download (1).jpg)](https://ankitasawant12-movie-recommender-system-app-4m6r2x.streamlit.app/)
 
 
+
+
 # Overview
 The movies are recommended based on the content of the movie you entered or selected. The main parameters that are considered for the recommendations are the genre,title, director, and top 3 casts. The details of the movies, such as title, genre, runtime, poster, casts, etc., are fetched from TMDB. The reviews of each individual movie given by the users are "web-scraped" from the IMDB website.
 
