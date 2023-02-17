@@ -4,7 +4,7 @@ A content-based recommender system that recommends movies similar to the movie t
 
 Link to Movie Recommendation System
 
-[![Button Text](download.jpg)](https://ankitasawant12-movie-recommender-system-app-4m6r2x.streamlit.app/)
+[![Button Text](download (1).jpg)](https://ankitasawant12-movie-recommender-system-app-4m6r2x.streamlit.app/)
 
 
 # Overview
