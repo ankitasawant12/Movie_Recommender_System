@@ -23,4 +23,4 @@ Create an account in https://www.themoviedb.org/. Once you successfully created 
 3. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key)
 4. Replace YOUR_API_KEY in both the places (line no. 8) of `App.py` file and hit save.
 5. Open your terminal/command prompt from your project directory and run the file `App.py` by executing the command `python App.py`.
-[![Button Text](download (1).jpg)](https://ankitasawant12-movie-recommender-system-app-4m6r2x.streamlit.app/)
+
